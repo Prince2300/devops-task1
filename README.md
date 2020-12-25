@@ -1,6 +1,6 @@
 ### Task 1
 
-Made by Pavel Percuhov for Development Management Seminar.
+Made for Development Management Seminar.
 
 To start, run `sudo vagrant up`.
 
